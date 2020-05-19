@@ -1,1 +1,5 @@
 dist: focal
+
+script:
+- uname -a
+- sleep 600

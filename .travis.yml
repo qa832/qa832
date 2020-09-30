@@ -2,5 +2,5 @@ dist: focal
 
 script:
 - uname -a
-# - echo trst
+- echo trst
 - sleep 600
